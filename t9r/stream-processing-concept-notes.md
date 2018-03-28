@@ -274,7 +274,7 @@ Channel Interceptors: One of the advantages of a messaging architecture is the a
 
 While the Message plays the crucial role of encapsulating data, it is the MessageChannel that decouples message producers from message consumers.
 
-### DSL NOTES
+### Highland DSL
 
 - Some example DSLs:
     - http://highlandjs.org
