@@ -1,10 +1,3 @@
-## Design
-- https://www.leejamesrobinson.com/blog/how-stripe-designs-beautiful-websites/
-
-## UI Examples
-- https://sysdig.com/blog/sysdig-inspect/
-- https://github.com/radarsh/gradle-test-logger-plugin/
-
 ## IO
 - http://www.scylladb.com/2017/10/05/io-access-methods-scylla/
 - http://seeallhearall.blogspot.co.uk/2012/05/netty-tutorial-part-1-introduction-to.html
@@ -48,8 +41,6 @@
 ## Website and Blog
 - https://www.josephecombs.com/2018/03/05/how-to-make-an-AWS-S3-static-website-with-ssl
 - https://www.sarasoueidan.com/blog/jekyll-ghpages-to-hugo-netlify/
-- https://www.netlify.com
-- https://showterm.io
 - https://www.netlify.com/blog/2017/08/17/a-complete-cms-with-no-server-and-18-lines-of-code/
 
 ## Proxies
@@ -60,16 +51,19 @@
 
 ## Retail
 - https://www.shopify.co.uk/pricing
+- https://stripe.com/blog/billing
 
 ## CLI
 - https://github.com/nexe/nexe
 - https://blog.heroku.com/open-cli-framework
 
-## AWS
+## Cloud
+- https://www.packet.net/resources/partners/backblaze/
 - https://engineering.coinbase.com/you-need-more-than-one-aws-account-aws-bastions-and-assume-role-23946c6dfde3
 
 ## Spring
 - https://github.com/BHRother/spring-boot-security-jwt
+- https://github.com/naturalprogrammer/spring-lemon
 
 ## Lambda
 - https://cloudonaut.io/the-life-of-a-serverless-microservice-on-aws/
@@ -111,14 +105,3 @@
 - https://travis-ci.org
 - http://bmuschko.com/blog/dockerized-spring-boot-app/
 - http://bmuschko.com/blog/docker-integration-testing/
-
-## Interviews
-- https://github.com/yangshun/front-end-interview-handbook
-
-## Pitching
-- https://blog.ycombinator.com/intro-to-the-yc-seed-deck/
-- https://blog.ycombinator.com/how-to-design-a-better-pitch-deck/
-
-## Growth Hacking
-- https://pawelurbanek.com/profitable-slack-bot-rails
-
