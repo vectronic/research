@@ -1,26 +1,26 @@
-## IO
-- http://www.scylladb.com/2017/10/05/io-access-methods-scylla/
-- http://seeallhearall.blogspot.co.uk/2012/05/netty-tutorial-part-1-introduction-to.html
-- http://seeallhearall.blogspot.co.uk/2012/06/netty-tutorial-part-15-on-channel.html
-- https://timboudreau.com/blog/Fun_with_Netty_and_Async_IO/read
+## Node and Javascript
+- https://oclif.io
+- https://github.com/maxleiko/npmi
+- https://github.com/chalk/chalk
+- https://github.com/nexe/nexe
+- https://github.com/easeway/js-plugins and usage example at: https://github.com/orlade/oi-sysl/blob/master/package.json
+- https://github.com/standard-things/esm
+- https://rollupjs.org
+- http://tapiov.net/live-server/
 
-## Frontend Dev
-- https://hackernoon.com/zero-to-live-with-vue-how-we-built-chatwoot-c7304e596d62
-- https://github.com/aws/aws-amplify
-- 2D: https://konvajs.github.io
+## Java and Spring
+- High Performance data structures and utility methods for Java: https://github.com/real-logic/agrona
+- https://github.com/BHRother/spring-boot-security-jwt
+- https://github.com/naturalprogrammer/spring-lemon
+- https://www.togglz.org and https://medium.com/@bogdandraghicescu/spring-boot-feature-toggles-fe66cfa7504d
 
-## Javascript
-- https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5
-- https://boostlog.io/@ronaldadk/javascript-2017-rising-stars-5a951f4385e464009e5f01cd
-- https://www.npmjs.com/package/js-plugins
-- https://github.com/easeway/js-plugins and https://github.com/orlade/oi-sysl/blob/master/package.json
-- https://www.smashingmagazine.com/2016/02/writing-reusable-components-es6/
-
-## Java
-- https://github.com/real-logic/agrona
+## Python
+- https://conda.io/docs/
 
 ## C
-- cMake ccache
+- https://cmake.org
+- https://ccache.samba.org
+- http://www.catonmat.net/blog/low-level-bit-hacks-you-absolutely-must-know/
 
 ## Rust
 - rust argument parsing: https://clap.rs
@@ -38,15 +38,8 @@
 ## WASM
 - http://teavm.org
 
-## Website and Blog
-- https://www.josephecombs.com/2018/03/05/how-to-make-an-AWS-S3-static-website-with-ssl
-- https://www.sarasoueidan.com/blog/jekyll-ghpages-to-hugo-netlify/
-- https://www.netlify.com/blog/2017/08/17/a-complete-cms-with-no-server-and-18-lines-of-code/
-
-## Proxies
+## Proxies and Ingress
 - https://thehftguy.com/2016/10/03/haproxy-vs-nginx-why-you-should-never-use-nginx-for-load-balancing/
-
-## Ingress
 - https://github.com/heptio/contour
 
 ## Retail
@@ -56,14 +49,11 @@
 ## CLI
 - https://github.com/nexe/nexe
 - https://blog.heroku.com/open-cli-framework
+- https://github.com/leo/args
 
 ## Cloud
 - https://www.packet.net/resources/partners/backblaze/
 - https://engineering.coinbase.com/you-need-more-than-one-aws-account-aws-bastions-and-assume-role-23946c6dfde3
-
-## Spring
-- https://github.com/BHRother/spring-boot-security-jwt
-- https://github.com/naturalprogrammer/spring-lemon
 
 ## Lambda
 - https://cloudonaut.io/the-life-of-a-serverless-microservice-on-aws/
@@ -73,6 +63,21 @@
 ## Microservices
 - http://www.hamvocke.com/blog/testing-java-microservices
 - https://medium.facilelogin.com/securing-microservices-with-oauth-2-0-jwt-and-xacml-d03770a9a838
+- https://github.com/acesinc/convergent-ui
+
+## IO
+- http://www.scylladb.com/2017/10/05/io-access-methods-scylla/
+- http://seeallhearall.blogspot.co.uk/2012/05/netty-tutorial-part-1-introduction-to.html
+- http://seeallhearall.blogspot.co.uk/2012/06/netty-tutorial-part-15-on-channel.html
+- https://timboudreau.com/blog/Fun_with_Netty_and_Async_IO/read
+- https://github.com/Haivision/srt
+
+## UI
+- https://hackernoon.com/zero-to-live-with-vue-how-we-built-chatwoot-c7304e596d62
+- https://github.com/aws/aws-amplify
+- 2D Canvas Library: https://konvajs.github.io
+- SVG Charts: https://frappe.github.io/charts/
+- https://www.webcomponents.org/introduction
 
 ## AI/Machine Vision
 - https://github.com/matterport/Mask_RCNN
@@ -88,20 +93,47 @@
 - http://openimaj.org/openimaj-streams/index.html
 - http://www.imageterrier.org
 
-## Rendering
+## 3D
 - https://www.shadertoy.com
+- http://www.open-3d.org
 
-## Security
+## Security and Privacy
 - https://www.sqreen.io/checklists/saas-cto-security-checklist
+- https://github.com/google/gvisor
+- https://techblog.bozho.net/gdpr-practical-guide-developers/
 
 ## VCS
 - https://trunkbaseddevelopment.com/5-min-overview/
 - http://nvie.com/posts/a-successful-git-branching-model/
+- https://seesparkbox.com/foundry/semantic_commit_messages
 
 ## Testing
 - http://www.hamvocke.com/blog/testing-java-microservices
+- https://github.com/avajs/ava
+- https://userinsights.com
 
-## Continuous Integration
+## Continuous Integration and Deployment
 - https://travis-ci.org
 - http://bmuschko.com/blog/dockerized-spring-boot-app/
 - http://bmuschko.com/blog/docker-integration-testing/
+- https://www.appveyor.com
+- http://jenkins-x.io
+
+## Development Process
+- https://semver.org
+- https://seesparkbox.com/foundry/semantic_commit_messages
+
+## Website and Blog
+- https://fonts.google.com
+- https://gohugo.io
+- https://www.netlify.com
+- https://speedtracker.org
+- https://brid.gy/about
+- https://www.talkyard.io
+- https://cookieconsent.insites.com
+- http://sharingbuttons.io
+- https://gdprchecklist.io
+- https://html5up.net
+- https://unsplash.com
+- https://medium.com/netlify/jamstack-with-gatsby-netlify-and-netlify-cms-a300735e2c5d
+- https://github.com/philhawksworth/jamstack-comments-engine/blob/master/README.md
