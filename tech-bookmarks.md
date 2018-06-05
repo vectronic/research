@@ -8,11 +8,12 @@
 - https://rollupjs.org
 - http://tapiov.net/live-server/
 
-## Java and Spring
+## Java
 - High Performance data structures and utility methods for Java: https://github.com/real-logic/agrona
 - https://github.com/BHRother/spring-boot-security-jwt
 - https://github.com/naturalprogrammer/spring-lemon
 - https://www.togglz.org and https://medium.com/@bogdandraghicescu/spring-boot-feature-toggles-fe66cfa7504d
+- https://google.github.io/dagger/
 
 ## Python
 - https://conda.io/docs/
@@ -41,10 +42,6 @@
 ## Proxies and Ingress
 - https://thehftguy.com/2016/10/03/haproxy-vs-nginx-why-you-should-never-use-nginx-for-load-balancing/
 - https://github.com/heptio/contour
-
-## Retail
-- https://www.shopify.co.uk/pricing
-- https://stripe.com/blog/billing
 
 ## CLI
 - https://github.com/nexe/nexe
@@ -118,6 +115,7 @@
 - http://bmuschko.com/blog/docker-integration-testing/
 - https://www.appveyor.com
 - http://jenkins-x.io
+- https://bazel.build
 
 ## Development Process
 - https://semver.org
@@ -127,6 +125,7 @@
 - https://fonts.google.com
 - https://gohugo.io
 - https://www.netlify.com
+- https://webpagetest.org
 - https://speedtracker.org
 - https://brid.gy/about
 - https://www.talkyard.io
@@ -137,3 +136,7 @@
 - https://unsplash.com
 - https://medium.com/netlify/jamstack-with-gatsby-netlify-and-netlify-cms-a300735e2c5d
 - https://github.com/philhawksworth/jamstack-comments-engine/blob/master/README.md
+
+## Retail
+- https://www.shopify.co.uk/pricing
+- https://stripe.com/blog/billing
