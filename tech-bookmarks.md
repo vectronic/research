@@ -140,3 +140,11 @@
 ## Retail
 - https://www.shopify.co.uk/pricing
 - https://stripe.com/blog/billing
+
+## Media Repositories
+- http://download.opencontent.netflix.com/?prefix=TechblogAssets/
+
+## Glossaries
+- https://en.wikipedia.org/wiki/Glossary_of_video_terms
+- https://en.wikipedia.org/wiki/Glossary_of_broadcasting_terms
+- https://en.wikipedia.org/wiki/Glossary_of_motion_picture_terms
