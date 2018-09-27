@@ -85,6 +85,7 @@
 - http://dlib.net
 - https://github.com/CMU-Perceptual-Computing-Lab/openpose
 - https://towardsdatascience.com/background-removal-with-deep-learning-c4f2104b3157
+- https://github.com/mahyarnajibi/SNIPER
 
 ## Media Processing
 - http://openimaj.org/openimaj-streams/index.html
@@ -98,6 +99,12 @@
 - https://www.sqreen.io/checklists/saas-cto-security-checklist
 - https://github.com/google/gvisor
 - https://techblog.bozho.net/gdpr-practical-guide-developers/
+
+## Documentation
+- https://www.gitbook.com/pricing
+- https://github.com/spring-projects/spring-restdocs
+- http://springfox.github.io/springfox/
+- https://carbon.now.sh
 
 ## VCS
 - https://trunkbaseddevelopment.com/5-min-overview/
@@ -125,17 +132,19 @@
 - https://fonts.google.com
 - https://gohugo.io
 - https://www.netlify.com
+- https://css-tricks.com/jamstack-comments/
 - https://webpagetest.org
 - https://speedtracker.org
 - https://brid.gy/about
-- https://www.talkyard.io
 - https://cookieconsent.insites.com
 - http://sharingbuttons.io
 - https://gdprchecklist.io
 - https://html5up.net
 - https://unsplash.com
-- https://medium.com/netlify/jamstack-with-gatsby-netlify-and-netlify-cms-a300735e2c5d
-- https://github.com/philhawksworth/jamstack-comments-engine/blob/master/README.md
+- https://www.favicon-generator.org
+- https://coolors.co
+- https://highlightjs.org
+- http://wicky.nillia.ms/headroom.js/playroom/
 
 ## Retail
 - https://www.shopify.co.uk/pricing
@@ -144,6 +153,7 @@
 ## Media Repositories
 - http://download.opencontent.netflix.com/?prefix=TechblogAssets/
 - https://samples.ffmpeg.org
+- http://rdmedia.bbc.co.uk/dash/ondemand/bbb/
 
 ## Glossaries
 - https://en.wikipedia.org/wiki/Glossary_of_video_terms
