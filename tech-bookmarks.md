@@ -39,18 +39,17 @@
 ## WASM
 - http://teavm.org
 
-## Proxies and Ingress
-- https://thehftguy.com/2016/10/03/haproxy-vs-nginx-why-you-should-never-use-nginx-for-load-balancing/
-- https://github.com/heptio/contour
-
 ## CLI
 - https://github.com/nexe/nexe
 - https://blog.heroku.com/open-cli-framework
 - https://github.com/leo/args
 
-## Cloud
+## Cloud and Infrastructure
 - https://www.packet.net/resources/partners/backblaze/
 - https://engineering.coinbase.com/you-need-more-than-one-aws-account-aws-bastions-and-assume-role-23946c6dfde3
+- http://www.doxsey.net/blog/kubernetes--the-surprisingly-affordable-platform-for-personal-projects
+- https://thehftguy.com/2016/10/03/haproxy-vs-nginx-why-you-should-never-use-nginx-for-load-balancing/
+- https://github.com/heptio/contour
 
 ## Lambda
 - https://cloudonaut.io/the-life-of-a-serverless-microservice-on-aws/
@@ -90,6 +89,9 @@
 ## Media Processing
 - http://openimaj.org/openimaj-streams/index.html
 - http://www.imageterrier.org
+- https://tsduck.io
+- https://github.com/videojs/mux.js
+- http://thumb.co.il
 
 ## 3D
 - https://www.shadertoy.com
@@ -159,3 +161,9 @@
 - https://en.wikipedia.org/wiki/Glossary_of_video_terms
 - https://en.wikipedia.org/wiki/Glossary_of_broadcasting_terms
 - https://en.wikipedia.org/wiki/Glossary_of_motion_picture_terms
+
+## Robotics
+- http://ompl.kavrakilab.org
+- http://moveit.ros.org
+- http://tmkit.kavrakilab.org
+- https://index.ros.org/doc/ros2/
