@@ -67,6 +67,8 @@
 - http://seeallhearall.blogspot.co.uk/2012/06/netty-tutorial-part-15-on-channel.html
 - https://timboudreau.com/blog/Fun_with_Netty_and_Async_IO/read
 - https://github.com/Haivision/srt
+- http://rsocket.io
+- https://github.com/linux-china/awesome-rsocket/blob/master/README.md
 
 ## UI
 - https://hackernoon.com/zero-to-live-with-vue-how-we-built-chatwoot-c7304e596d62
@@ -85,6 +87,7 @@
 - https://github.com/CMU-Perceptual-Computing-Lab/openpose
 - https://towardsdatascience.com/background-removal-with-deep-learning-c4f2104b3157
 - https://github.com/mahyarnajibi/SNIPER
+- https://github.com/jantic/DeOldify
 
 ## Media Processing
 - http://openimaj.org/openimaj-streams/index.html
@@ -92,6 +95,12 @@
 - https://tsduck.io
 - https://github.com/videojs/mux.js
 - http://thumb.co.il
+
+## Browser AV
+- https://howlerjs.com
+
+## Browser IO
+- https://tus.io
 
 ## 3D
 - https://www.shadertoy.com
@@ -147,6 +156,7 @@
 - https://coolors.co
 - https://highlightjs.org
 - http://wicky.nillia.ms/headroom.js/playroom/
+- https://glorious.codes/demo
 
 ## Retail
 - https://www.shopify.co.uk/pricing
