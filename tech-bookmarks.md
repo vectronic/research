@@ -43,6 +43,7 @@
 - https://github.com/nexe/nexe
 - https://blog.heroku.com/open-cli-framework
 - https://github.com/leo/args
+- https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46
 
 ## Cloud and Infrastructure
 - https://www.packet.net/resources/partners/backblaze/
@@ -58,7 +59,6 @@
 
 ## Microservices
 - http://www.hamvocke.com/blog/testing-java-microservices
-- https://medium.facilelogin.com/securing-microservices-with-oauth-2-0-jwt-and-xacml-d03770a9a838
 - https://github.com/acesinc/convergent-ui
 
 ## IO
@@ -88,6 +88,7 @@
 - https://towardsdatascience.com/background-removal-with-deep-learning-c4f2104b3157
 - https://github.com/mahyarnajibi/SNIPER
 - https://github.com/jantic/DeOldify
+- https://devblogs.nvidia.com/accelerate-video-analytics-deepstream-2/
 
 ## Media Processing
 - http://openimaj.org/openimaj-streams/index.html
@@ -110,6 +111,8 @@
 - https://www.sqreen.io/checklists/saas-cto-security-checklist
 - https://github.com/google/gvisor
 - https://techblog.bozho.net/gdpr-practical-guide-developers/
+- https://medium.facilelogin.com/securing-microservices-with-oauth-2-0-jwt-and-xacml-d03770a9a838
+- https://developer.okta.com
 
 ## Documentation
 - https://www.gitbook.com/pricing
@@ -126,6 +129,8 @@
 - http://www.hamvocke.com/blog/testing-java-microservices
 - https://github.com/avajs/ava
 - https://userinsights.com
+- https://dzone.com/articles/native-integration-testing-in-spring-boot
+- https://dzone.com/articles/advanced-functional-testing-in-spring-boot-by-usin
 
 ## Continuous Integration and Deployment
 - https://travis-ci.org
