@@ -35,6 +35,7 @@
 	- https://github.com/polyfractal/Turbine
 	- https://github.com/sruggier/rust-disruptor
 - http://plugins.jetbrains.com/plugin/7438
+- https://neon-bindings.com
 
 ## WASM
 - http://teavm.org
@@ -69,6 +70,7 @@
 - https://github.com/Haivision/srt
 - http://rsocket.io
 - https://github.com/linux-china/awesome-rsocket/blob/master/README.md
+- https://grpc.io
 
 ## UI
 - https://hackernoon.com/zero-to-live-with-vue-how-we-built-chatwoot-c7304e596d62
@@ -89,6 +91,7 @@
 - https://github.com/mahyarnajibi/SNIPER
 - https://github.com/jantic/DeOldify
 - https://devblogs.nvidia.com/accelerate-video-analytics-deepstream-2/
+- https://github.com/bbc/rd-apmm-python-lib-mediagrains
 
 ## Media Processing
 - http://openimaj.org/openimaj-streams/index.html
@@ -96,6 +99,11 @@
 - https://tsduck.io
 - https://github.com/videojs/mux.js
 - http://thumb.co.il
+- https://github.com/kuu/Kontainer
+- https://github.com/epiclabs-io/inspector.js
+- https://github.com/madebyhiro/codem-isoboxer
+- https://github.com/sannies/mp4parser
+- https://github.com/sannies/isoviewer
 
 ## Browser AV
 - https://howlerjs.com

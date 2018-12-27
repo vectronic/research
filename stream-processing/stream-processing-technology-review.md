@@ -96,6 +96,8 @@
 
 \+ mature
 
+\+ stream compatibility concepts via 'caps'
+
 \- too much locking
 
 \- complex
@@ -163,3 +165,14 @@
 \- no media concepts e.g. live, frames
 
 \- fixed tuples for stream elements
+
+### FFmpeg
+
+\+ wide format, codec and filter support
+
+\+ mature
+
+\- no dynamic plugin concepts
+
+\- specific format and codec structures are private
+ 
