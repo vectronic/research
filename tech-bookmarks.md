@@ -190,3 +190,5 @@
 - http://moveit.ros.org
 - http://tmkit.kavrakilab.org
 - https://index.ros.org/doc/ros2/
+- https://robotacademy.net.au
+- http://hades.mech.northwestern.edu/index.php/Modern_Robotics
