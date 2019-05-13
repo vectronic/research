@@ -104,6 +104,7 @@
 - https://github.com/madebyhiro/codem-isoboxer
 - https://github.com/sannies/mp4parser
 - https://github.com/sannies/isoviewer
+- https://www.sno.phy.queensu.ca/~phil/exiftool/#license
 
 ## Browser AV
 - https://howlerjs.com
@@ -127,6 +128,7 @@
 - https://github.com/spring-projects/spring-restdocs
 - http://springfox.github.io/springfox/
 - https://carbon.now.sh
+- http://hiroppy.github.io/fusuma/intro/#slide=1 and https://webslides.tv/#slide=1
 
 ## VCS
 - https://trunkbaseddevelopment.com/5-min-overview/
