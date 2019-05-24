@@ -72,6 +72,9 @@
 - https://github.com/linux-china/awesome-rsocket/blob/master/README.md
 - https://grpc.io
 
+## IO - Javascript
+- https://tus.io
+
 ## UI
 - https://hackernoon.com/zero-to-live-with-vue-how-we-built-chatwoot-c7304e596d62
 - https://github.com/aws/aws-amplify
@@ -105,12 +108,19 @@
 - https://github.com/sannies/mp4parser
 - https://github.com/sannies/isoviewer
 - https://www.sno.phy.queensu.ca/~phil/exiftool/#license
+- https://github.com/sandflow/regxmllib
+- https://github.com/skynav/ttt
+- https://github.com/Netflix/photon
+- http://www.cinecert.com/asdcplib/
+- https://github.com/IMFTool/IMFTool
+- https://github.com/DSRCorporation/imf-conversion
 
-## Browser AV
+## Media Processing - Javascript
 - https://howlerjs.com
-
-## Browser IO
-- https://tus.io
+- https://jsmpeg.com
+- https://github.com/CrystalComputerCorp/smpte-timecode
+- https://github.com/artsalliancemedia/node-klv
+- https://github.com/sandflow/imscJS
 
 ## 3D
 - https://www.shadertoy.com
