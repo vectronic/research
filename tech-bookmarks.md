@@ -114,6 +114,7 @@
 - http://www.cinecert.com/asdcplib/
 - https://github.com/IMFTool/IMFTool
 - https://github.com/DSRCorporation/imf-conversion
+- https://github.com/RedisGears/EdgeRealtimeVideoAnalytics
 
 ## Media Processing - Javascript
 - https://howlerjs.com
