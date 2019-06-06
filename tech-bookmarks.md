@@ -96,7 +96,7 @@
 - https://devblogs.nvidia.com/accelerate-video-analytics-deepstream-2/
 - https://github.com/bbc/rd-apmm-python-lib-mediagrains
 
-## Media Processing
+## Media Processing and Inspection
 - http://openimaj.org/openimaj-streams/index.html
 - http://www.imageterrier.org
 - https://tsduck.io
@@ -108,13 +108,16 @@
 - https://github.com/sannies/mp4parser
 - https://github.com/sannies/isoviewer
 - https://www.sno.phy.queensu.ca/~phil/exiftool/#license
-- https://github.com/sandflow/regxmllib
 - https://github.com/skynav/ttt
 - https://github.com/Netflix/photon
 - http://www.cinecert.com/asdcplib/
 - https://github.com/IMFTool/IMFTool
 - https://github.com/DSRCorporation/imf-conversion
 - https://github.com/RedisGears/EdgeRealtimeVideoAnalytics
+- https://github.com/virinext/hevcesbrowser
+- https://mediaarea.net/en/MediaInfo
+- https://www.bento4.com/documentation/mp4info/
+- https://github.com/sandflow/regxmllib
 
 ## Media Processing - Javascript
 - https://howlerjs.com
