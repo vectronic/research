@@ -118,6 +118,8 @@
 - https://mediaarea.net/en/MediaInfo
 - https://www.bento4.com/documentation/mp4info/
 - https://github.com/sandflow/regxmllib
+- https://github.com/PixarAnimationStudios/OpenTimelineIO
+- https://github.com/JNoDuq/videobench
 
 ## Media Processing - Javascript
 - https://howlerjs.com
