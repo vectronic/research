@@ -52,6 +52,8 @@
 - http://www.doxsey.net/blog/kubernetes--the-surprisingly-affordable-platform-for-personal-projects
 - https://thehftguy.com/2016/10/03/haproxy-vs-nginx-why-you-should-never-use-nginx-for-load-balancing/
 - https://github.com/heptio/contour
+- https://helm.sh
+- https://landscape.cncf.io
 
 ## Lambda
 - https://cloudonaut.io/the-life-of-a-serverless-microservice-on-aws/
