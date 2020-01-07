@@ -123,6 +123,9 @@
 - https://github.com/PixarAnimationStudios/OpenTimelineIO
 - https://github.com/JNoDuq/videobench
 - https://github.com/agfline/tcCoca
+- https://github.com/abhiTronix/vidgear
+- https://github.com/kkroening/ffmpeg-python
+- https://lang.video/index.html
 
 ## Media Processing - Javascript
 - https://howlerjs.com
