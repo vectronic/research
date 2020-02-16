@@ -59,6 +59,7 @@
 - https://cloudonaut.io/the-life-of-a-serverless-microservice-on-aws/
 - https://github.com/awslabs/lambda-refarch-mapreduce
 - http://fission.io/docs/v0.2.1/install/
+- https://www.npmjs.com/package/micro-aws-lambda
 
 ## Microservices
 - http://www.hamvocke.com/blog/testing-java-microservices
