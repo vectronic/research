@@ -98,6 +98,7 @@
 - https://github.com/jantic/DeOldify
 - https://devblogs.nvidia.com/accelerate-video-analytics-deepstream-2/
 - https://github.com/bbc/rd-apmm-python-lib-mediagrains
+- https://github.com/google/mediapipe/blob/master/mediapipe/docs/autoflip.md
 
 ## Media Processing and Inspection
 - http://openimaj.org/openimaj-streams/index.html
@@ -127,6 +128,7 @@
 - https://github.com/abhiTronix/vidgear
 - https://github.com/kkroening/ffmpeg-python
 - https://lang.video/index.html
+- https://github.com/google/mediapipe
 
 ## Media Processing - Javascript
 - https://howlerjs.com
