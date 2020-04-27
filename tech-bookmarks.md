@@ -104,8 +104,6 @@
 - http://openimaj.org/openimaj-streams/index.html
 - http://www.imageterrier.org
 - https://tsduck.io
-- https://github.com/videojs/mux.js
-- http://thumb.co.il
 - https://github.com/kuu/Kontainer
 - https://github.com/epiclabs-io/inspector.js
 - https://github.com/madebyhiro/codem-isoboxer
@@ -129,6 +127,8 @@
 - https://github.com/kkroening/ffmpeg-python
 - https://lang.video/index.html
 - https://github.com/google/mediapipe
+- https://gitlab.com/standards/HDRTools
+- https://github.com/SubtitleEdit/subtitleedit
 
 ## Media Processing - Javascript
 - https://howlerjs.com
@@ -136,6 +136,8 @@
 - https://github.com/CrystalComputerCorp/smpte-timecode
 - https://github.com/artsalliancemedia/node-klv
 - https://github.com/sandflow/imscJS
+- https://github.com/videojs/mux.js
+- http://thumb.co.il
 
 ## 3D
 - https://www.shadertoy.com
@@ -154,6 +156,8 @@
 - http://springfox.github.io/springfox/
 - https://carbon.now.sh
 - http://hiroppy.github.io/fusuma/intro/#slide=1 and https://webslides.tv/#slide=1
+- https://github.com/Redocly/redoc
+
 
 ## VCS
 - https://trunkbaseddevelopment.com/5-min-overview/
