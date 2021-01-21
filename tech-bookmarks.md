@@ -7,6 +7,8 @@
 - https://github.com/standard-things/esm
 - https://rollupjs.org
 - http://tapiov.net/live-server/
+- http://restify.com
+- https://netflix.github.io/falcor/
 
 ## Java
 - High Performance data structures and utility methods for Java: https://github.com/real-logic/agrona
@@ -157,7 +159,7 @@
 - https://carbon.now.sh
 - http://hiroppy.github.io/fusuma/intro/#slide=1 and https://webslides.tv/#slide=1
 - https://github.com/Redocly/redoc
-
+- https://kroki.io
 
 ## VCS
 - https://trunkbaseddevelopment.com/5-min-overview/
@@ -223,3 +225,6 @@
 - https://index.ros.org/doc/ros2/
 - https://robotacademy.net.au
 - http://hades.mech.northwestern.edu/index.php/Modern_Robotics
+
+## Hardware
+- https://jlcpcb.com
