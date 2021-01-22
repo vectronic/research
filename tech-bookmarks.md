@@ -9,6 +9,8 @@
 - http://tapiov.net/live-server/
 - http://restify.com
 - https://netflix.github.io/falcor/
+- https://www.fastify.io
+- https://nestjs.com
 
 ## Java
 - High Performance data structures and utility methods for Java: https://github.com/real-logic/agrona
