@@ -227,6 +227,7 @@
 
 ## WASM
 - https://docs.rs/wasmtime/0.31.0/wasmtime/
+- https://github.com/deislabs/wagi
 
 ## Website and Blog
 - https://fonts.google.com
