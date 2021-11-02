@@ -137,7 +137,7 @@
 - http://awesome.video/#tools
 - https://github.com/darbyjohnston/tlRender
 
-## Media Processing - Javascript
+## Media Processing with Browser/Node
 - https://howlerjs.com
 - https://jsmpeg.com
 - https://github.com/CrystalComputerCorp/smpte-timecode
@@ -145,6 +145,7 @@
 - https://github.com/sandflow/imscJS
 - https://github.com/videojs/mux.js
 - http://thumb.co.il
+- https://github.com/ashellunts/ffmpeg-to-webrtc
 
 ## Media Repositories
 - http://download.opencontent.netflix.com/?prefix=TechblogAssets/
@@ -225,7 +226,7 @@
 - https://seesparkbox.com/foundry/semantic_commit_messages
 
 ## WASM
-- http://teavm.org
+- https://docs.rs/wasmtime/0.31.0/wasmtime/
 
 ## Website and Blog
 - https://fonts.google.com
