@@ -219,6 +219,7 @@
 - 2D Canvas Library: https://konvajs.github.io
 - SVG Charts: https://frappe.github.io/charts/
 - https://www.webcomponents.org/introduction
+- https://github.com/mitsuba-renderer/nanogui
 
 ## VCS
 - https://trunkbaseddevelopment.com/5-min-overview/
